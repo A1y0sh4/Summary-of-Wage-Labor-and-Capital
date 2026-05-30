@@ -29,7 +29,9 @@ Bourgeois economists confuse the price of a commodity with its value. They belie
 ##
 By further developing the productive forces, men change their mode of production, change how they earn their living, and so do all their social relations. Different economic systems lead to different social systems.
 
-In ancient times, the worker was generally a slave directly owned by a master and received only the means of subsistence strictly necessary for his survival. In feudalism the worker was mostly a serf linked to the farm, which was owned by a feudal lord; on some days he had to work his feudal lord's field while on others he could cultivate a part of the common land for his own sustenance. In both cases, only a part of their work was actually paid. In the first case, it does not even seem that part of the work is paid, while in the other the unpaid and paid work are visibly separated and clearly distinguishable.
+In ancient times, the worker was generally a slave directly owned by a master and received only the means of subsistence strictly necessary for his survival. In feudalism the worker was mostly a serf linked to the farm, which was owned by a feudal lord; on some days he had to work his feudal lord's field while on others he could cultivate a part of the common land for his own sustenance.
+
+In both cases, only a part of their work was actually paid. In the first case, it does not even seem that part of the work is paid, while in the other the unpaid and paid work are visibly separated and clearly distinguishable.
 
 Following the industrial revolution and the birth of the world market, the prevailing economic system became the capitalist one. Even in capitalism only a part of the worker's work is actually paid, but it is not possible to immediately recognize which part is paid and which is unpaid. It seems to the wage worker that all the work he does is paid for because the work is masked by a contract and the form of the salary he receives at the end of the month.
 ##
@@ -113,9 +115,9 @@ Markets become saturated with goods that can no longer be sold at a profit. This
 
 The small middle classes fall into the ranks of wage workers because they cannot survive in a struggle in which the first condition for success is production on an ever-increasing scale.
 
-The bourgeoisie, in order to safeguard its profits, overcomes crises through the forced destruction of a mass of the productive forces (wage workers are fired and companies are closed) and through the conquest of new markets. In this way, it prepares for more global and more violent crises, and reduces the means to prevent future crises.
+The capitalists, in order to safeguard their profits, overcome crises through the forced destruction of a mass of the productive forces (wage workers are fired and companies are closed) and through the conquest of new markets. In this way, it prepares for more global and more violent crises, and reduces the means to prevent future crises.
 ##
-Modern industry has transformed the small workshop of the master craftsman into the great factory of the industrial capitalist. Whole masses of workers are organized as soldiers and are placed under the supervision of a whole hierarchy of officers and non-commissioned officers.
+Modern industry has transformed the small workshop of the master craftsman into the great factory of the industrial capitalist. Whole masses of workers are organized as soldiers and are placed under the supervision of a whole hierarchy of officers and sergeants.
 
 The need for ever more extensive trade has given a global scope to the production and consumption of all countries; both in the field of material and intellectual goods. In place of the subsistence economy and national isolation comes omnilateral trade, mutual dependence between nations.
 
