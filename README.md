@@ -33,7 +33,7 @@ In ancient times, the worker was generally a slave directly owned by a master an
 
 In both cases, only a part of their work was actually paid. In the first case, it does not even seem that part of the work is paid, while in the other the unpaid and paid work are visibly separated and clearly distinguishable.
 
-Following the industrial revolution and the birth of the world market, the prevailing economic system became the capitalist one. Even in capitalism only a part of the worker's work is actually paid, but it is not possible to immediately recognize which part is paid and which is unpaid. It seems to the wage worker that all the work he does is paid for because the work is masked by a contract and the form of the salary he receives at the end of the month.
+Following the industrial revolution and the birth of the world market, the prevailing economic system became the capitalist one. Even in capitalism only a part of the worker's work is actually paid, but it is not possible to immediately recognize which part is paid and which is unpaid. It seems to the wage worker that all the work he does is paid for because the work is masked by a contract and by the form of the salary he receives at the end of the month.
 ##
 The capitalist system of production is organized to produce mainly commodities with the aim of increasing the value of capital, therefore for the realization of a profit by the owners of capital (capitalists). This economic system incessantly tries to transform all goods and products into commodities (it makes them usable only behind an economic transaction).
 
