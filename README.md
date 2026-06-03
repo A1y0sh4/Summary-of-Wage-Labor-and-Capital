@@ -29,7 +29,7 @@ Bourgeois economists confuse the price of a commodity with its value. They belie
 ##
 By further developing the productive forces, men change their mode of production, change how they earn their living, and so do all their social relations. Different economic systems lead to different social systems.
 
-In ancient times, the worker was generally a slave directly owned by a master and received only the means of subsistence strictly necessary for his survival. In feudalism the worker was mostly a serf linked to the farm, which was owned by a feudal lord; on some days he had to work his feudal lord's field while on others he could cultivate a part of the common land for his own sustenance.
+In ancient times, the worker was generally a slave directly owned by a master and received only the means of subsistence strictly necessary for his survival. In feudalism the worker was mostly a serf linked to the land, which was owned by a feudal lord; on some days he had to work his feudal lord's field while on others he could cultivate a part of the common land for his own sustenance.
 
 In both cases, only a part of their work was actually paid. In the first case, it does not even seem that part of the work is paid, while in the other the unpaid and paid work are visibly separated and clearly distinguishable.
 
