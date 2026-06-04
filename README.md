@@ -37,7 +37,7 @@ Following the industrial revolution and the birth of the world market, the preva
 ##
 The capitalist system of production is organized to produce mainly commodities with the aim of increasing the value of capital, therefore for the realization of a profit by the owners of capital (capitalists). This economic system incessantly tries to transform all goods and products into commodities (it makes them usable only behind an economic transaction).
 
-In capitalism, a worker, in addition to producing goods, produces capital. Material products become capital when they are used to increase the value of other material products through the system of wage labour. This is because capital is preserved and multiplied in value only through the use of the labor power of wage workers.
+In capitalism, a worker, in addition to producing commodities, produces capital. Material products become capital when they are used to increase the value of other material products through the system of wage labour. This is because capital is preserved and multiplied in value only through the use of the labor power of wage workers.
 
 Capital is the social relation of production of capitalist society. The existence of capital depends on the existence of a class that has capital but not the labour-power necessary to increase its value (capitalists) and a class that cannot access to the means of subsistence except by selling its labour-power in exchange (wage workers). Capital cannot exist without wage-labour, and wage-labour cannot exist without capital; capitalism is based on the exchange between labour-power and capital.
 
