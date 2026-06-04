@@ -93,7 +93,7 @@ To safeguard their profits when an industry becomes unionized, capitalists withd
 
 The capitalists say that it would be useless to raise wages anyway because, according to them, the cost of living would rise accordingly to match the increase in wages. This is false. The price of a commodity is determined by its value, by how much labor is socially necessary for its production, not by the ratio of wages to profits. An increase in wages lowers the rate of surplus value of the capitalists but does not raise the price of commodities in the long run.
 
-If anything, an increase in wages causes an increase in the demand for commodities of staples, which generates a temporary increase in market prices, followed by an increase in supply, which again causes prices to fall to their former level, if not to an even lower one.
+If anything, an increase in wages causes an increase in the demand for staple commodities, which generates a temporary increase in market prices, followed by an increase in supply, which again causes prices to fall to their former level, if not to an even lower one.
 ##
 A capitalist can beat the competition only by selling at lower prices, only by reducing the cost of production of his commodities, and therefore only by developing the productive forces as much as possible. With the development of the productive forces, the division of labor increases and more and more machinery of better quality is introduced into the workplace.
 
