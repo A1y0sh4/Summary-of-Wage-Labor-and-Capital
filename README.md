@@ -101,9 +101,9 @@ The more powerful and expensive means of production allow the capitalist to sell
 
 Thus the capitalists find themselves in the same situation as they were before the introduction of the new means of production, but now they are forced to sell more commodities than before at less than the previous price. At this new point, capitalists must once again compete for market supremacy.
 ##
-In the same measure as the division of labor increases, labor is simplified and the skill of the worker becomes superfluous; The more work is simplified, the more competition increases and the more wages fall. The result is that the more the wage worker works, the less he earns; The more he competes with other wage workers, the more miserable the working conditions of his class become.
+In the same measure as the division of labor increases, labor is simplified and the skill of the worker becomes superfluous; the more work is simplified, the more competition increases and the more wages fall. The result is that the more the wage worker works, the less he earns; the more he competes with other wage workers, the more miserable the working conditions of his class become.
 
-Machinery replaces skilled workers with low-skilled workers and throws workers out on the streets in ever greater masses as they become more and more developed and productive.
+Machinery replaces skilled workers with low-skilled workers and throws workers out on the streets in ever greater masses as it becomes more and more developed and productive.
 
 The existence of a mass of unemployed and precarious workers makes it easy to replace wage workers. This pushes the working class to accept the unfavourable working conditions that the capitalist class imposes on it.
 
