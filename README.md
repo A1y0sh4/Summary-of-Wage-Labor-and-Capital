@@ -73,9 +73,9 @@ The interests of the capitalist class and those of the working class are antagon
 ##
 Profits correspond to the total surplus value realized. The rate of surplus-value corresponds to the ratio of profits to wages. The rate of profit, on the other hand, corresponds to the ratio of profits to invested capital.
 
-Suppose the capitalist makes a profit of €200 by selling the goods made by the worker. If the capitalist pays €100 in wages, he consequently obtains a surplus-value of €100, and therefore the rate of surplus-value is 100% (surplus-value/wages = 1). If, on the other hand, we also consider that the capitalist has paid 400 euros for raw materials and tools of labour, then we will obtain a rate of profit of only 20% (surplus-value/(wages + means of production) = 0.2).
+Suppose the capitalist earns 2'000€ by selling the goods made by the worker. If the capitalist pays 1'000€ in wages, he consequently obtains a surplus-value of 1'000€, and therefore the rate of surplus-value is 100% (surplus-value/wages = 1). If, on the other hand, we also consider that the capitalist has paid 4'000€ for raw materials and tools of labour, then we will obtain a rate of profit of only 20% (surplus-value/(wages + means of production) = 0.2).
 
-The rate of surplus value is the only measure that indicates the relationship between paid and unpaid labor, that is, the real degree of exploitation of the worker. The rate of profit, on the other hand, is the usual measure, and it is very useful for hiding the real degree of exploitation of the worker.
+The rate of surplus value is the only measure that indicates the relationship between paid and unpaid labor, that is, the real degree of exploitation of the worker. The rate of profit, on the other hand, is the usual measure, and it is very useful for hiding the true degree of exploitation of the worker.
 
 With the greater automation of the production process, the rate of surplus value tends to increase but the rate of profit tends to decrease. Thanks to innovation, the productivity of the individual worker increases and the demand for labor power decreases, thus, while the costs of new production machines rise, wages fall and the employment rate in automated industries falls.
 ##
