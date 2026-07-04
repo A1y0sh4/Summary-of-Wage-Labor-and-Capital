@@ -3,7 +3,7 @@ A good is an object capable of satisfying a human need. In all societies, human 
 
 A product is a type of good that is not already available in nature and that is the result of the human processing of some raw materials through certain work tools.
 
-A commodity is a type of product that is made to be exchanged for other goods; its purpose is not immediate consumption, but exchange on the market.
+A commodity is a type of good or product that is collected/made to be exchanged for other goods; its purpose is not immediate consumption, but exchange on the market.
 
 Different commodities can satisfy different needs, in fact commodities differ from each other because each has a different utility (use value). All commodities, however, are united by the fact that they are products of human labor, and this gives them a social value. But a product that does not satisfy a social need cannot be a commodity and consequently has no social value either (even if it took a lot of work to make).
 ##
