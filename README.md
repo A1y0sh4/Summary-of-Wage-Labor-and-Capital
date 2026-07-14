@@ -13,7 +13,7 @@ The value of a commodity depends on the average level of productivity of the soc
 
 If in a society it takes an average of two hours of labor to make a commodity, then in that society this commodity is worth two hours of social labor. If more efficient methods or tools of work are discovered in this society that halve the amount of time required for the production of that commodity, then its value will also be halved.
 ##
-The value of a commodity depends on the value transferred to it both by the raw materials, the tools of labor, and the production plant by which it was made according to their rate of consumption (accumulated labor), and by the new value created by the living labor of the laborer.
+The value of a commodity depends on the value transferred to it both by the raw materials, the tools of labor, and the production plant (accumulated labor) by which it was made according to their rate of consumption, and by the new value created by the living labor of the laborer.
 
 The means of production transfer to the commodity part of the social labor they embody according to how much they are used, but only human labor can create new value.
 
