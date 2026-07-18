@@ -11,7 +11,7 @@ The value of a commodity depends on how much social labor is required for its re
 
 The value of a commodity depends on the average level of productivity of the society in which it is consumed, on how developed its productive forces are, that is, on how efficient the tools of work are on average and on how skilled the workers are on average. The value of a commodity does not depend on the skill of the individual worker. A worker who takes longer than average to make his or her goods does not produce goods of greater value, just as goods made by a very efficient worker are not less valuable.
 
-If in a society it takes an average of two hours of labor to make a commodity, then in that society this commodity is worth two hours of social labor. If more efficient methods or tools of work are discovered in this society that halve the amount of time required for the production of that commodity, then its value will also be halved.
+If in a society it takes an average of two hours of labor to make a commodity, then in that society this commodity is worth two hours of social labor. If more efficient methods or tools of work that halve the amount of time required for the production of that commodity are discovered, then in this society its value will also be halved.
 ##
 The value of a commodity depends on the value transferred to it both by the raw materials, the tools of labor, and the production plant (accumulated labor) by which it was made according to their rate of consumption, and by the new value created by the living labor of the laborer.
 
