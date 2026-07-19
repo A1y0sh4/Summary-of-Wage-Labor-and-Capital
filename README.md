@@ -51,7 +51,7 @@ A worker's wage is the price of his labor-power, and it's equivalent to the cost
 
 Often individual workers do not receive enough to maintain a good standard of living, but the wages of the entire working class adjust within the limits of their fluctuations to allow enough workers to perpetuate the existence of their class.
 ##
-The wage-laborer is free to work as many hours of his life as he pleases for the capitalist who offers him the most; moreover, he is free to leave him when he wants and vice versa. But the wage-laborer cannot live unless he auctions off enough hours of his life, and he cannot leave the whole capitalist class unless he renounces his own existence. The wage-laborer belongs to the whole capitalist class, and it is up to him the task to find a buyer in this class.
+The wage-laborer is free to work as many hours of his life as he pleases for the capitalist who offers him the most; moreover, he is free to leave him when he wants and vice versa. But the wage-laborer cannot live unless he auctions off enough hours of his life to a capitalist, and he cannot leave the whole capitalist class unless he renounces his own existence. The wage-laborer belongs to the whole capitalist class, and it is up to him the task to find a buyer in this class.
 
 Since the capitalist possesses both the means of production and the labor-power (the wage-laborer is forced to sell it to him) necessary to produce the commodity, the wage-laborer has no right either to possess the product of his labor or to enjoy directly the profit obtained from its sale; the wage-laborer receives from the capitalist only the price of his labor-power (the wage), not the total value which he realises.
 
