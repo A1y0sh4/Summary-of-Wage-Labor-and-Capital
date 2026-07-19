@@ -89,7 +89,7 @@ In this case, the wage worker would improve his material conditions because, sup
 
 The rapid growth of productive capital equals a rapid growth in profits and a rapid decrease in relative wages. To say that "the worker has an interest in the rapid growth of capital" is to say that the more rapidly the worker increases the capitalist's wealth, the greater will be the crumbs that fall on him.
 ##
-Capitalists tend to do everything they can to keep wages low, to minimize business costs, and to extend the length of the working day as much as possible because they increase their profits to the same extent. Wage workers are thus forced to wage struggle to defend their living standards, to be able to work less, with better working conditions and with more decent wages.
+Capitalists tend to do everything they can to keep wages low, to minimize business costs, and to extend the length of the working day as much as possible because they increase their profits to the same extent. Wage workers are thus forced to conduct wage struggle to defend their living standards, to be able to work less, with better working conditions and with more decent wages.
 
 To safeguard their profits when an industry becomes unionized, capitalists tend to withdraw their capital from that industry to invest it in a non-unionized industry; and if an entire country were to adopt reforms in favor of the wage workers, the capitalists would move their industries en masse to countries where working conditions are worse and where profits are higher (and they would manipulate the politics of the various countries to hinder the unionization of workers).
 
