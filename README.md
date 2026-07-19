@@ -1,4 +1,4 @@
-# Summary-of-Wage-Labor-and-Capital
+# Synthesis of Wage Labor and Capital
 A good is an object capable of satisfying a human need. In all societies, human beings must consume goods in order to live and to maintain a good standard of living.
 
 A product is a type of good that is not already available in nature and that is the result of the human processing of some raw materials through certain work tools.
